@@ -15,8 +15,8 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Full Stack Deve
 <a href="https://github.com/bisoncorps/search-engine-parser">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=search-engine-parser" />
 </a>
-<a href="https://github.com/deven96/SimpleGAN">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=SimpleGAN" />
+<a href="https://github.com/deven96/Simple_GAN">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=Simple_GAN" />
 </a>
 <a href="https://github.com/bisoncorps/signalum">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
