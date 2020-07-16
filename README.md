@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Full Stack Developer, ML Engineer and NerdStagram hobbyist. I think Naruto is the greatest anime to have ever existed
+I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Full Stack Developer, ML Engineer and NerdStagram hobbyist. I think Naruto is the greatest anime of all time
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/K6LQWZDmgFM8o/giphy.gif" />
 <br />
