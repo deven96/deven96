@@ -24,12 +24,12 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Full Stack Deve
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
 |---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gae/gae.png" alt="appengine logo" width="26">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
+| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
 |---|---|
 
 ### Other Accounts 📫
