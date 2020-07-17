@@ -29,18 +29,19 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum-desktop" />
 </a>
 <a href="https://github.com/deven96/fuskar-backend">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=fuskar-backend" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=fuskar-backend" />
 </a>
 <a href="https://github.com/bisoncorps/signalum">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
 </a>
 <a href="https://github.com/bisoncorps/imageQ">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=imageQ" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=imageQ" />
 </a>
 <a href="https://github.com/Go-phie/gophie">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=gophie" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=gophie" />
 </a>
 </p>
+<br/>
 
 ### Programming Languages 🌐
 
