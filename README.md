@@ -9,7 +9,7 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 
 ### Pinned Repositories
 
-<div align="center"> 
+<div align="center" width="100%"> 
 <a href="https://github.com/Go-phie/scalic">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=scalic" />
 </a>
