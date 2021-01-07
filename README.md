@@ -10,8 +10,8 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 ### Pinned Repositories
 
 <div align="right" width="100%"> 
-<a href="https://github.com/Go-phie/scalic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=scalic" />
+<a href="https://github.com/deven96/mythra">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=mythra" />
 </a>
 <a href="https://github.com/bisoncorps/search-engine-parser">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=search-engine-parser" />
