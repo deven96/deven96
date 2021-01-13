@@ -10,26 +10,14 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 ### Pinned Repositories
 
 <div align="right" width="100%"> 
-<a href="https://github.com/deven96/mythra">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=mythra" />
-</a>
 <a href="https://github.com/bisoncorps/search-engine-parser">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=search-engine-parser" />
-</a>
-<a href="https://github.com/deven96/Simple_GAN">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=Simple_GAN" />
-</a>
-<a href="https://github.com/bisoncorps/signalum">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
 </a>
 <a href="https://github.com/Go-phie/gophie-web">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=gophie-web" />
 </a>
 <a href="https://github.com/bisoncorps/signalum-desktop">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum-desktop" />
-</a>
-<a href="https://github.com/deven96/fuskar-backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deven96&repo=fuskar-backend" />
 </a>
 <a href="https://github.com/bisoncorps/signalum">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
@@ -76,4 +64,4 @@ You can find and get touch with me on these accounts!
 
 ### Personal Site
 
-Visit my site at [https://diretnan.live](https://diretnan.live)
+Visit my site at [https://deven96.github.io](https://deven96.github.io)
