@@ -7,29 +7,6 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 
 ![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deven96&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### Pinned Repositories
-
-<div align="right" width="100%"> 
-<a href="https://github.com/bisoncorps/search-engine-parser">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=search-engine-parser" />
-</a>
-<a href="https://github.com/Go-phie/gophie-web">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=gophie-web" />
-</a>
-<a href="https://github.com/bisoncorps/signalum-desktop">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum-desktop" />
-</a>
-<a href="https://github.com/bisoncorps/signalum">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=signalum" />
-</a>
-<a href="https://github.com/bisoncorps/imageQ">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bisoncorps&repo=imageQ" />
-</a>
-<a href="https://github.com/Go-phie/gophie">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-phie&repo=gophie" />
-</a>
-</div>
-<br/>
 
 ### Programming Languages 🌐
 
