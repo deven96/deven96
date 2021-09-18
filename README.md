@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I am Diretnan from Plateau, Nigeria. Computer Engineer, Backend Developer and NerdStagram hobbyist. I think Naruto is the greatest anime of all time. My Pinned repositories show some of my open source work
+Diretnan aka Deven `10² - 2²` from Plateau, Nigeria. 
+
+Computer Engineer, Backend Developer and NerdStagram hobbyist. 
+
+Writing nifty tools to help me learn
+
+I know Naruto is the greatest anime of all time.
+
 View other stuff at [Bisoncorps](https://github.com/bisoncorps) and [Gophie](https://github.com/Go-phie)
 
 
@@ -15,24 +22,24 @@ View other stuff at [Bisoncorps](https://github.com/bisoncorps) and [Gophie](htt
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/react/react.png" alt="react logo" width="24">] | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/tensorflow/tensorflow.png" alt="tensorflow logo" width="24">]
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/react/react.png" alt="react logo" width="24">] | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/tensorflow/tensorflow.png" alt="tensorflow logo" width="24">] |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+|---|---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala logo" width="24">](https://www.scala-lang.org/)|
-|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala logo" width="24">](https://www.scala-lang.org/)|
+|---|---|
 
 ### Tools 🛠️
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) | [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) 
+|---|---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
+| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://kubernetes.io) | [<img src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" alt="codecov logo" width="24">](https://terraform.io/)|
 |---|---|
 
 ### Other Accounts 📫
