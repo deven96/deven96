@@ -39,7 +39,7 @@ View other stuff at [Bisoncorps](https://github.com/bisoncorps) and [Gophie](htt
 
 - Learning
 
-| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://kubernetes.io) | [<img src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" alt="codecov logo" width="24">](https://terraform.io/)|
+| [<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" alt="k8s logo" width="28">](https://kubernetes.io) | [<img src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" alt="terraform logo" width="24">](https://terraform.io/)|
 |---|---|
 
 ### Other Accounts 📫
