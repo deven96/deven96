@@ -2,13 +2,11 @@
 
 Diretnan aka Deven `10² - 2²` from Plateau, Nigeria. 
 
-Computer Engineer, Backend Developer and NerdStagram hobbyist. 
-
-Writing nifty tools to help me learn
+Computer Engineer, Backend Developer, CI nerd and NerdStagram model. 
 
 I know Naruto is the greatest anime of all time.
 
-View other stuff at [Bisoncorps](https://github.com/bisoncorps) and [Gophie](https://github.com/Go-phie)
+View some of my stuff at [Bisoncorps](https://github.com/bisoncorps) and [Gophie](https://github.com/Go-phie)
 
 
 <br />
